@@ -6,20 +6,28 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.tipcalculator.R;
+import com.example.tipcalculator.databinding.ActivityTipCalculatorBinding;
+import com.example.tipcalculator.viewModel.CalculatorViewModel;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+import androidx.databinding.DataBindingUtil;
 
 public class MainActivity extends AppCompatActivity {
+
+	ActivityTipCalculatorBinding binding;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+//		setContentView(R.layout.activity_tip_calculator);
+		binding = DataBindingUtil.setContentView(this, R.layout.activity_tip_calculator);
+		binding.setVm(new CalculatorViewModel(getApplication()));
 		Toolbar toolbar = findViewById(R.id.toolbar);
 		setSupportActionBar(toolbar);
+
 
 		FloatingActionButton fab = findViewById(R.id.fab);
 		fab.setOnClickListener(new View.OnClickListener() {
