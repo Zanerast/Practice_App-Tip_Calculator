@@ -22,4 +22,4 @@ This sample application will introduce the concepts of:
 
 ![Alt text](tip_calculator_zero.png?raw=true "Tip Calculator Image One")
 
-![Alt text](tip_calculator_2.png?raw=true "Tip Calculator Image Two")
+[Alt text](tip_calculator_2.png?raw=true "Tip Calculator Image Two")
