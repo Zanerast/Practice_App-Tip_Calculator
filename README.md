@@ -20,6 +20,6 @@ This sample application will introduce the concepts of:
 
 - Espresso UI Testing
 
-![Alt text](/Practice_MVVM/tip_calculator_one?raw=true "Tip Calculator Image One")
+![Alt text](tip_calculator_one.png?raw=true "Tip Calculator Image One")
 
-![Alt text](/Zanerast/Practice_MVVM/tip_calculator_two?raw=true "Tip Calculator Image Two")
+![Alt text](tip_calculator_two.png?raw=true "Tip Calculator Image Two")
