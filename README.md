@@ -1,4 +1,4 @@
-# Practice App - Tip Calculator
+# Practice App - Tip Calculator - MVVM
 
 ## Project Overview
 Course from [caster.io](https://caster.io/courses/android-mvvm-pattern "caster.io") that teaches how MVVM relates to other patterns such as MVC and MVP.
