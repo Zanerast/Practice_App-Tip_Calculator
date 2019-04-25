@@ -20,6 +20,6 @@ This sample application will introduce the concepts of:
 
 - Espresso UI Testing
 
-![Alt text](tip_calculator_one.png?raw=true "Tip Calculator Image One"){:height="20%" width="20%"}
+![Alt text](tip_calculator_one.png?raw=true "Tip Calculator Image One")
 
-![Alt text](tip_calculator_two.png?raw=true "Tip Calculator Image Two"){:height="20%" width="20%"}
+![Alt text](tip_calculator_two.png?raw=true "Tip Calculator Image Two")
