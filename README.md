@@ -8,7 +8,7 @@ The App uses Data-Binding to listen to the results of the calculation and update
 ## Why this Project?
 This project will teach you about the Model-View-ViewModel (MVVM) pattern and take you step by step on how to apply it to build and Android Application from scratch. 
 
-This sample application will introduce the concepts of: 
+## This app does the following:
 
 - Data Binding
 
